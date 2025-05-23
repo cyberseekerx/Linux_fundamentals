@@ -1,0 +1,9 @@
+important commands for understanding anything I linux :
+
+man (any tools name) 
+this command will give you any and every informtion about the tools 
+
+man command are lengthy and unreadble for some new users 
+
+git clone https://github.com/tldr-pages/tldr.git .Copy this and it will give you the similar 
+informantion but in digestable format as compared to man pages 
